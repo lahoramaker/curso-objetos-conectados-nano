@@ -1,3 +1,3 @@
-#define SECRET_SSID "objetosconectados"
-#define SECRET_PASS "123456789"
-#define YOUR_TOKEN "OP9Hq7aHS9gmdjh21-IQPberRGHGtPAy"
+#define SECRET_SSID ""  //introducir tu nombre de wifi
+#define SECRET_PASS "" //introducir tu clave de la wifi de casa
+#define YOUR_TOKEN "" //introducir tu token personal (se puede enviar al correo desde la aplicación blynk o copiarlo y pegarlo desde Blynk)
