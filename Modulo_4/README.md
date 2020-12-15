@@ -7,9 +7,9 @@ En este video vamos a explicar cómo funcionan los leds multicolor Neopixel. Emp
 
 Para configurar los distintos colores, descubriremos en qué consiste la codificación RGB que se utiliza en informática de forma habitual. Por último descubriremos cómo funciona la estructura for, que nos permite generar bucles y que será ideal para trabajar con grandes conjuntos de leds.
 
-URL del video: no disponible por el momento.
+URL del video: https://www.youtube.com/watch?v=bHbB3VNBwsI
 
 ## Cómo mostrar los datos de los sensores de la Arduino Nano 33 IoT utilizando Neopixels
 En este video vamos a ver cómo podemos generar distintas visualizaciones en nuestro anillo de Neopixels empleando el acelerómetro LSM6DS3 incluido en nuestra placa Arduino Nano 33 IoT. Para ello descubriremos cómo funciona la función map, que nos permite cambiar la escala entre distintos conjuntos de valores.
 
-URL del video: no disponible por el momento.
+URL del video: https://www.youtube.com/watch?v=YHFnyOVP5SA
