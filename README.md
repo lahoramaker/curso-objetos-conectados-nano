@@ -1,4 +1,6 @@
 # curso-objetos-conectados-nano
+![Portada del curso](images/portada_curso_objetos_conectados.png)
+
 Este repositorio contiene las muestras de código y otras notas sobre el Curso de Objetos Conectados de Maker Faire Bilbao 2020.
 
 Durante el curso utilizaremos la placa Arduino Nano 33 Iot, así como los elementos que se detallan a continuación:
