@@ -22,5 +22,5 @@ URL del video: https://youtu.be/pshmm8mQxoo
 ## Visualizando la temperatura y humedad en la nube usando la plataforma Blynk
 En este video vamos a explorar cómo podemos enviar los datos de nuestro sensor de temperatura y humedad DHT11 a la plataforma Blynk. Observaremos cómo se puede visualizar esta información y cómo podemos consultar los datos históricos. Así mismo descubriremos cómo podemos guardar los datos localmente en formato csv (Valores separados por commas) para su lectura en programas como Excel o LibreOffice Calc.
 
-URL del vídeo: no disponible por el momento
+URL del vídeo: https://youtu.be/QN7_043z0v8
 
